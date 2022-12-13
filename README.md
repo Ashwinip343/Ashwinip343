@@ -21,5 +21,6 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="java" height="40" style="vertical-align:top; margin:4px">
+      <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbrandslogos.com%2Fj%2Fjava-logo-1%2F&psig=AOvVaw1BdON07Vhi_6_n0GE8kv_y&ust=1670995073600000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPiQ9-_r9fsCFQAAAAAdAAAAABAE" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+
 </p>
