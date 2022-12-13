@@ -12,3 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 --->
 [![@ash_033's Holopin board](https://holopin.me/ash_033)](https://holopin.io/@ash_033)
+
+
+<img src="https://img.shields.io/badge/java-FFFFFF.svg?&style=for-the-badge&logo=openjdk&logoColor=black"/> <img src="https://img.shields.io/badge/c%23%20-239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/> 
+<img src="https://img.shields.io/badge/html5%20-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=grey"/> <img src="https://img.shields.io/badge/node.js-339933.svg?&style=for-the-badge&logo=nodedotjs&logoColor=white"/> <!--img src="https://img.shields.io/badge/typescript%20-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white"/--> <!--img src="https://img.shields.io/badge/php-777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/--> <img src="https://img.shields.io/badge/bash-4EAA25.svg?&style=for-the-badge&logo=gnu%20bash&logoColor=white"/> <img src="https://img.shields.io/badge/ruby-CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white"/>
