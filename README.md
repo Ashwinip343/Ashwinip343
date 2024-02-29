@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @Ashwinip343
-- 👀 Exploring the coding world
-- 🌱 I’m currently pursuing BTech with the CSE branch.
-- 💞️ I'm proficient in Python & C++, can deal with RDBMS in MySQL , design wesbites using figma, know basics of html css and js, proficient in DSA with implementation in C,
-      Object Oriented Programming - JAVA ,
-- 📫 How to reach me - reach me at twitter @winiii_1912 
+- Hi, I’m @Ashwinip343
+- Exploring the coding world
+- I’m currently pursuing BTech i Computer Science & Engineering.
+- I'm proficient in Python & C, C++ , Java , Mysql , R
+- Python Frameworks - numpy , pandas , tensorflow , django , flask , 
+- Strong foundation in Mathematics - Probability & Statistics , Linear Algebra, Calculus
+- Basic understanding of Machine learning & Deep learning Algorithms 
 
 
 <!---
