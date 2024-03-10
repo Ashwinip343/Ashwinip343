@@ -3,7 +3,7 @@
 - I’m currently pursuing BTech in Computer Science & Engineering.
 - I'm proficient in Python & C, C++ , Java , Mysql , R, Go
 - Python Frameworks - numpy , pandas , tensorflow , django , flask , pytorch
-- Strong foundation in Mathematics - Probability & Statistics , Linear Algebra, Calculus
+- Strong foundation in Mathematics - Probability & Statistics , Linear Algebra, Calculus & Optimization
 - Basic understanding of Machine learning & Deep learning Algorithms 
 
 
