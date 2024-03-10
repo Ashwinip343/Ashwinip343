@@ -1,8 +1,8 @@
 - Hi, I’m @Ashwinip343
 - Exploring the coding world
-- I’m currently pursuing BTech i Computer Science & Engineering.
-- I'm proficient in Python & C, C++ , Java , Mysql , R
-- Python Frameworks - numpy , pandas , tensorflow , django , flask , 
+- I’m currently pursuing BTech in Computer Science & Engineering.
+- I'm proficient in Python & C, C++ , Java , Mysql , R, Go
+- Python Frameworks - numpy , pandas , tensorflow , django , flask , pytorch
 - Strong foundation in Mathematics - Probability & Statistics , Linear Algebra, Calculus
 - Basic understanding of Machine learning & Deep learning Algorithms 
 
