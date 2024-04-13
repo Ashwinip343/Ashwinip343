@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 # 💫 About Me:
 🤖 Passionate about artificial intelligence and machine learning (AIML), with a focus on leveraging data science techniques to solve real-world problems.<br>
 📈 Possess a strong mathematical background, which serves as a solid foundation for diving into the complexities of data analysis and predictive modeling.<br>
-Proficient in deep learning methodologies, constantly exploring new techniques and algorithms to push the boundaries of what's possible in the field.<br>
+🎯 Proficient in deep learning methodologies, constantly exploring new techniques and algorithms to push the boundaries of what's possible in the field.<br>
 🚀 Enthusiastic about all things related to deep learning and eager to collaborate with like-minded individuals on innovative projects.<br>
 🌟 Open to collaborations and eager to connect with fellow enthusiasts, researchers, and practitioners.<br>
 📧 Reach out to me on patilashwini6282@gmail.com , feel free to contact me for discussions, collaborations, or sharing insights on AIML and data science. Let's explore the exciting world of deep learning together!<br>
